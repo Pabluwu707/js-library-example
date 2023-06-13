@@ -1,0 +1,12 @@
+{
+  "name": "identitymanager",
+  "description": "Create a person, name it and give it an age. Javascript library example using ES Modules.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "js": "rollup --config"
+  },
+  "main": "index.js",
+  "keywords": [],
+  "author": ""
+}
