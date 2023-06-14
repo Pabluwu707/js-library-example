@@ -4,9 +4,20 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "js": "rollup --config"
+    "build": "rollup --config"
+  },
+  "devDependencies": {
+    "rollup": "^2.4.0"
   },
   "main": "index.js",
   "keywords": [],
-  "author": ""
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pabluwu707/js-library-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pabluwu707/js-library-example/issues"
+  },
+  "homepage": "https://github.com/Pabluwu707/js-library-example#readme"
 }
